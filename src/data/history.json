@@ -1,0 +1,29 @@
+[
+    {
+      "role": "BSCS",
+      "organisation": "FAST NUCES",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "experiences": ["currently in 5th semester", "location, karachi"],
+      "imageSrc": "history/graduation-hat.png"
+    },
+    {
+      "role": "A-levels",
+      "organisation": "Whales College",
+      "startDate": "Aug, 2020",
+      "endDate": "Aug, 2022",
+      "experiences": ["Maths,physics,chemistry", "location, karachi"],
+      "imageSrc": "history/college.png"
+    },
+    {
+      "role": "O-levels",
+      "organisation": "The American Foundation School",
+      "startDate": "Aug 2018",
+      "endDate": "Aug 2020",
+      "experiences": [
+        "Opted pre-engineering",
+        "location, karachi"
+      ],
+      "imageSrc": "history/school.png"
+    }
+  ]

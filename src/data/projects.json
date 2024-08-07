@@ -1,0 +1,26 @@
+[
+    {
+      "title": "TodoList-contextApi",
+      "imageSrc": "projects/todolist.png",
+      "description": "Simple todolist where you can add/update/delete and  check items.",
+      "skills": ["React", "tailwindCSS"],
+      "demo": "https://capable-concha-a89f17.netlify.app/",
+      "source": "https://github.com/sarimbinasif/TodoList-contextApi"
+    },
+    {
+      "title": "Snake-Game",
+      "imageSrc": "projects/snakegame.png",
+      "description": "Snake game with some soundeffects and high-score is stored in local storage",
+      "skills": ["html", "css", "JS"],
+      "demo": "https://wonderful-parfait-7a9a90.netlify.app/",
+      "source": "https://github.com/sarimbinasif/Snake-game"
+    },
+    {
+      "title": "Password-Generator",
+      "imageSrc": "projects/passwordgenerator.png",
+      "description": "A customizable password generator with options to set length, include numbers/characters, and copy to clipboard.",
+      "skills": ["React", "tailwindCSS"],
+      "demo": "https://creative-sfogliatella-6b2c0b.netlify.app/",
+      "source": "https://github.com/sarimbinasif/Password-Generator"
+    }
+  ]
