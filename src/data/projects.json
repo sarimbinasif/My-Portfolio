@@ -22,5 +22,13 @@
       "skills": ["React", "tailwindCSS"],
       "demo": "https://creative-sfogliatella-6b2c0b.netlify.app/",
       "source": "https://github.com/sarimbinasif/Password-Generator"
+    },
+    {
+      "title": "React-router-dom",
+      "imageSrc": "projects/reactrouterProject.png",
+      "description": "Simple UI to understand basic functionality of react-router-dom",
+      "skills": ["React", "tailwindCSS"],
+      "demo": "https://beamish-boba-3aa65c.netlify.app/",
+      "source": "https://github.com/sarimbinasif/React-Router"
     }
   ]
