@@ -26,5 +26,17 @@
     {
       "title": "JS",
       "imageSrc": "skills/javaScriptImage.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/cppImage.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/pythonImage.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/cImage.png"
     }
   ]
