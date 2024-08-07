@@ -1,7 +1,6 @@
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-
 export const Hero = () => {
   return (
     <section className={styles.container}>
