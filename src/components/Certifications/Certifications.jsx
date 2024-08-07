@@ -1,19 +1,19 @@
-import styles from "./About.module.css";
+import styles from "./Certifications.module.css";
 import { getImageUrl } from "../../utils";
 
-export const About = () => {
+export const Certifications = () => {
   return (
     <section className={styles.container} id="about">
       <h2 className={styles.title}>Certifications</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/bgImage.png")}
+          src={getImageUrl("certifications/bgImage.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("certifications/uiIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
                 <h3>Python Programming Certificate</h3>
                 <p>Completed an online course covering Python programming 
@@ -22,7 +22,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("certifications/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Meta Front-end Development Certificate</h3>
                 <p>Completed an online course of meta professional front-end 
@@ -32,7 +32,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("certifications/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
           <h3>Google Data-analytics</h3>
                 <p> Currently learning about Intro data analytics
