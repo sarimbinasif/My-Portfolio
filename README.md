@@ -1,8 +1,7 @@
-# React + Vite
+# Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React: The entire website is developed using React, ensuring a modular and dynamic user experience.
 
-Currently, two official plugins are available:
+- Module CSS: CSS Modules are used for styling, providing a clean, maintainable, and scoped styling solution.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Animations: Engaging animations enhance the user experience, making the portfolio visually appealing.

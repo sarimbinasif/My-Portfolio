@@ -38,5 +38,13 @@
     {
       "title": "C",
       "imageSrc": "skills/cImage.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/gitImage.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/githubImage.png"
     }
   ]
