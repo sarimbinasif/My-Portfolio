@@ -10,9 +10,9 @@
     {
       "role": "A-levels",
       "organisation": "Whales College",
-      "startDate": "Aug, 2020",
-      "endDate": "Aug, 2022",
-      "experiences": ["Maths,physics,chemistry", "location, karachi"],
+      "startDate": "Aug 2020",
+      "endDate": "Aug 2022",
+      "experiences": ["Maths,phy,chem", "location, karachi"],
       "imageSrc": "history/college.png"
     },
     {

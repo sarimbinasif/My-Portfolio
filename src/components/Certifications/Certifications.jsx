@@ -17,7 +17,7 @@ export const Certifications = () => {
             <div className={styles.aboutItemText}>
                 <h3>Python Programming Certificate</h3>
                 <p>Completed an online course covering Python programming 
-                  fundamentals in January 2023 </p>
+                  fundamentals in January 2023.</p>
 
             </div>
           </li>
@@ -26,7 +26,7 @@ export const Certifications = () => {
             <div className={styles.aboutItemText}>
               <h3>Meta Front-end Development Certificate</h3>
                 <p>Completed an online course of meta professional front-end 
-                  -development in January 2024 </p>
+                  -development in January 2024.</p>
 
               
             </div>
@@ -35,9 +35,8 @@ export const Certifications = () => {
             <img src={getImageUrl("certifications/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
           <h3>Google Data-analytics</h3>
-                <p> Currently learning about Intro data analytics
-                  on coursera
-
+                <p> Completed Data Anayltics certificate
+                  in july 2024.
                 </p>
 
             </div>

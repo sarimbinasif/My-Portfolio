@@ -7,16 +7,15 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}> Hi, I am Sarim</h1>
         <p className={styles.description}>
-        A dedicated 5th-semester student with a strong foundation in 
-        C/C++, Python and MERN.My hands-on experience includes projects like
-        a flight management system and a calculator application, 
-        showcasing my practical skills in software development. 
+        A dedicated 5th-semester CS student at FAST-NUCES, with a strong foundation 
+        in C/C++, Python, and MERN. My hands-on experience includes projects like a 
+        flight management system(OOP), a bookstore(MERN), and a blog app(MERN), showcasing my practical skills in software development.
         </p>
         <a href="mailto:sarimbinasif12345@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
     
-        <a href="https://drive.google.com/file/d/12lPL9uaKcduqI7qOMR8dRiztKVHBg09T/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1i2mg_FZHukL6BM38ScF7d6y3KGi6oQkD/view?usp=drive_link" className={styles.contactBtn}>
          View Resume
         </a>
       </div>
