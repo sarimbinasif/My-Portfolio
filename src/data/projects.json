@@ -30,5 +30,21 @@
       "skills": ["React", "tailwindCSS"],
       "demo": "https://beamish-boba-3aa65c.netlify.app/",
       "source": "https://github.com/sarimbinasif/React-Router"
+    },
+    {
+      "title": "TinDog UI clone",
+      "imageSrc": "projects/tindogProject.png",
+      "description": "TingDog UI clone to understand Bootstrap features.",
+      "skills": ["html", "css", "Bootstrap"],
+      "demo": "https://sarimbinasif.github.io/Tindog-Website/",
+      "source": "https://github.com/sarimbinasif/Tindog-Website"
+    },
+    {
+      "title": "Drum-Game",
+      "imageSrc": "projects/drumgameProject.png",
+      "description": "Simple Drum game, press/click buttons to play sounds",
+      "skills": ["html", "css", "JS"],
+      "demo": "https://sarimbinasif.github.io/Drum-Game/",
+      "source": "https://github.com/sarimbinasif/Drum-Game"
     }
   ]
