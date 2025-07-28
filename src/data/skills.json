@@ -1,11 +1,12 @@
 [
+
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "title": "Springboot",
+      "imageSrc": "skills/springboot.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
     },
     {
       "title": "React",

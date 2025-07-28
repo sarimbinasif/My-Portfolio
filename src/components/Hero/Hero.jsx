@@ -5,17 +5,27 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}> Hi, I am Sarim</h1>
+        <h1 className={styles.title}>Hi, I am Sarim</h1>
         <p className={styles.description}>
-        A dedicated 5th-semester CS student at FAST-NUCES, with a strong foundation 
-        in C/C++, Python, and MERN. My hands-on experience includes projects like a 
-        flight management system(OOP), a bookstore(MERN), and a blog app(MERN), showcasing my practical skills in software development.
+        A dedicated 7th-semester Computer Science student at FAST-NUCES 
+        with a strong foundation in C/C++, Python, and the MERN stack. 
+        I have hands-on experience building real-world applications such as a 
+        flight management system (OOP), 
+        a bookstore and blog platform (MERN), 
+        and a contact manager (Spring Boot, Java).
+        <br></br>
+        My academic background includes solid knowledge of core CS subjects like 
+        Data Structures and Algorithms (DSA), Programming Fundamentals (PF), 
+        Database Systems (DB), Design and Analysis of Algorithms (DAA), 
+        Computer Networks (CN), and Artificial Intelligence (AI). 
+        I’m passionate about full-stack development and constantly strive to apply theoretical concepts through practical implementation.
+
         </p>
         <a href="mailto:sarimbinasif12345@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
     
-        <a href="https://drive.google.com/file/d/1i2mg_FZHukL6BM38ScF7d6y3KGi6oQkD/view?usp=drive_link" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1muOmVZP4M6PLnaHXmZYnFiAN3TmgjZa2/view?usp=drive_link" className={styles.contactBtn}>
          View Resume
         </a>
       </div>
